@@ -1,0 +1,43 @@
+body{
+    background: rgb(51, 62, 207);
+    background: radial-gradient(circle, rgb(129, 167, 223) 0%, rgb(28, 122, 230) 100%);
+}
+
+.image {
+    display: none;
+}
+
+img {
+    width: 40%;
+    height: 70%;
+}
+
+.maindiv {
+    height: 400px;
+    width: 100%;
+}
+
+button {
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 10%;
+    width: 70px;
+    height: 40px;
+}
+
+button:hover {
+    background-color: rgb(150, 185, 252);
+
+}
+
+
+.Parm {
+    background-color: white;
+    height: 50px;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 50%;
+}
+
